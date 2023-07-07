@@ -1,0 +1,32 @@
+ h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: 900;
+    text-decoration: underline;
+ }
+h2{
+    color: black;
+    text-decoration: solid;
+}
+ p{
+    color: black;
+    font-style: italic;
+
+ }
+
+ a{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+ }
+
+ body{
+    background-color: rgb(125, 226, 230);
+
+ }
+
+ img{
+    border: 5px ;
+    border-radius: 15px;
+ }
